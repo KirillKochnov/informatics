@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="SnakeZ.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="10" Y="4"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\Documents\GitHub\informatics\Documents\GitHub\informatics\hw_03_\Snake.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="20" Y="23"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="1">
+      <Position1>
+        <Filename Value="SnakeZ.pas"/>
+        <Caret Line="33" Column="15"/>
+      </Position1>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
