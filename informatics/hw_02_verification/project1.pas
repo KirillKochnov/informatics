@@ -1,11 +1,12 @@
-﻿program project1;
+program project1;
 var
   F: text;
-  A: String;
+  A,B: String;
   i,j: Integer;
 begin
-  assign(F,'Food Subsidy.txt');
-  WriteLn(' Food Subsidy');
+  Write('Enter file path- ');
+  ReadLn(B);
+  assign(F,B);
   WriteLn('');
   reset(F);
   While not EOF(F) do
