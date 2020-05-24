@@ -2,8 +2,8 @@ program SnakeZ;
 
 var
   N,i,K: Integer;
-  A,B,C: Integer;
-  T: array of Integer;
+  A,B,C: Real;
+  T: array of Real;
 
 begin
   Write('Enter N- ');
